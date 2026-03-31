@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python & React<br>💬 Ask me about anything!<br>⚡ Fun fact: I love cats!
+🌱 I’m currently learning Python & React<br>🎓 ICT student!<br>💬 Ask me about anything!<br>⚡ Fun fact: I love cats!
 
 
 ## 🌐 Socials:
